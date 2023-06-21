@@ -1,1 +1,1 @@
-docker run -d -p 7000:7000 -p 7500:7500 huhuang03/common-frp
+docker run -dp 3100:3100 -p 3101:3101 -p 3102:3102 --name common-frp huhuang03/common-frp

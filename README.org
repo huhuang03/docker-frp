@@ -1,1 +1,5 @@
 This is a easy to use frp container.
+
+
+* Run
+docker run -dp 3100:3100 -p 3101:3101 -p 3102:3102 huhuang03/common-frp
